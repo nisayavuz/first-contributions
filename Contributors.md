@@ -682,6 +682,7 @@ Nikhil R
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Cosmo Kramer](https://github.com/alexpi007)
 - [Frank Zhao](https://github.com/Frankbz)
+- [Nisa Yavuz](https://github.com/nisayavuz)
 - [Sarika Singh](https://github.com/volantxs)
 - [Nicholas Pop](https://github.com/Cocovert1)
 - [Bhanu Singh](https://github.com/bhanusingh008)
